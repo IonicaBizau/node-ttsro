@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-ttsro/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/node-ttsro"
+  "homepage": "https://github.com/IonicaBizau/node-ttsro",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "request": "^2.51.0"
+  },
+  "devDependencies": {}
 }
