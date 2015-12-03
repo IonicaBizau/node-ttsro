@@ -1,6 +1,6 @@
 {
   "name": "ttsro",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A Romanian text to speech service wrapper for NodeJS.",
   "main": "lib/index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "romanian"
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
-  "license": "KINDLY",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-ttsro/issues"
   },
