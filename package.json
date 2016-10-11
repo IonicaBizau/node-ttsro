@@ -1,6 +1,6 @@
 {
   "name": "ttsro",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "A Romanian text to speech service wrapper for NodeJS.",
   "main": "lib/index.js",
   "scripts": {
@@ -32,6 +32,7 @@
     "bin/",
     "app/",
     "lib/",
+    "build/",
     "dist/",
     "src/",
     "resources/",
